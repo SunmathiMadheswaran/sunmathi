@@ -1,6 +1,6 @@
 
 alph=input("")
 if((alph>='a'and alph<='z')or(alph>='A' and alph<='Z')):
-	print("yes")
+	print("Alphabet")
 else:
 	print("No")
